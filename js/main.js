@@ -7,7 +7,18 @@
 
 // verificare età
 
+// raccolta dati
 
 const TravelKm = Number(prompt('How many km have to travel?'));
 
 const Age = Number(prompt('How old are you?'));
+
+// stampa dati 
+
+console.log('km')
+console.log(typeof TravelKm);
+console.log(TravelKm);
+console.log('age')
+console.log(typeof Age);
+console.log(Age);
+
