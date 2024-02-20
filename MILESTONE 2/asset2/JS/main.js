@@ -1,3 +1,4 @@
+/*
 // numero di kilometri 
 // età del passeggero
 
@@ -52,3 +53,20 @@ if(Age > 65){
 console.log('il prezzo del tuo biglietto: ' + result.toFixed(2)); 
 
 // se sono 17 km * 0,21 = 3.57 + sconto 
+
+*/
+
+// numero di kilometri età passeggero
+
+const TravelKm = document.getElementById('km');
+
+const age = document.getElementById('age');
+
+// stampa dati
+
+console.log('km')
+
+console.log('age')
+
+// calcolo prezzo 
+
